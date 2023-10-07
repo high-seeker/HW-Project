@@ -1,0 +1,47 @@
+{
+    "DungeonEscape": {
+        "checkpoints": [
+            {
+                "steps": 499972,
+                "file_path": "results\\learn-de-2\\DungeonEscape\\DungeonEscape-499972.onnx",
+                "reward": 0.0,
+                "creation_time": 1696611156.2693238,
+                "auxillary_file_paths": [
+                    "results\\learn-de-2\\DungeonEscape\\DungeonEscape-499972.pt"
+                ]
+            },
+            {
+                "steps": 999966,
+                "file_path": "results\\learn-de-2\\DungeonEscape\\DungeonEscape-999966.onnx",
+                "reward": 0.0,
+                "creation_time": 1696613738.9492915,
+                "auxillary_file_paths": [
+                    "results\\learn-de-2\\DungeonEscape\\DungeonEscape-999966.pt"
+                ]
+            },
+            {
+                "steps": 1022651,
+                "file_path": "results\\learn-de-2\\DungeonEscape\\DungeonEscape-1022651.onnx",
+                "reward": 0.0,
+                "creation_time": 1696613873.9619958,
+                "auxillary_file_paths": [
+                    "results\\learn-de-2\\DungeonEscape\\DungeonEscape-1022651.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1022651,
+            "file_path": "results\\learn-de-2\\DungeonEscape.onnx",
+            "reward": 0.0,
+            "creation_time": 1696613873.9619958,
+            "auxillary_file_paths": [
+                "results\\learn-de-2\\DungeonEscape\\DungeonEscape-1022651.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
